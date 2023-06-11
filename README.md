@@ -1,4 +1,4 @@
-<div align="center"> 
+<!-- <div align="center"> 
 
 # Electron Vue Template
   
@@ -72,4 +72,4 @@ import {readFileSync} from 'fs';
 
 const path = join(app.getAppPath(), 'static', 'myFile.txt');
 const buffer = readFileSync(path);
-```
+``` -->
